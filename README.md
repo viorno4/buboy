@@ -16,15 +16,24 @@ Though frankly, I assume that you already have Python and git installed. If you 
 
 1. Clone into this repository
 Paste the following code into your terminal. Wherever you run this code is wherever you'll install this game in.
-`git clone https://github.com/viorno4/buboy`
+```
+git clone https://github.com/viorno4/buboy
+```
 
 2. `cd` into the buboy folder.
-`cd buboy`
+```
+cd buboy
+```
 
 3. Run with python
 Type or paste this code into your terminal to run the game.
-`python3 main.py`
+```
+python3 main.py
+```
+
 If that doesn't work, try this:
-`py main.py`
+```
+py main.py
+```
 
 Thank you for playing!
